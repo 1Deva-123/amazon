@@ -1,0 +1,78 @@
+Conventional  Aopl@123
+
+
+*Conventional - must have at least 3% (Homeready, Home Now or at least 1 borrower must be first time homebuyer) or 5% down		
+
+below 80% = NONE
+
+above 80% in Upfront MIP screen:
+
+1.Term for initial rate = 120
+2.Term for renewal annual rate = 240
+3.Renewal annual premium rate = 0.200000%
+4.Cancel at LTV = 78.000%
+5.Cancel at midpoint checkbox is checked.
+6.Mortgage insurance type = borrower paid.
+7.MI coverage % = 30.0000%.
+
+Agents screen: FL
+Homeowner Insurance need to be TBD.
+Seller Paid items in adjustments and credits for FL loans should be set to other. See check list
+
+Timestamp date must be on or before date of credit report being pulled. 
+
+Non P&L
+
+If Conv., and LTV is 80% or lower, please adjust to the following:
+
+
+will have an escrow account to pay the property costs listed below because = you requested an escrow account (lender does not require).
+
+
+Borrower-responsible Closing Costs screen:
+
+A section:
+
+1. Discount points.
+2. Processing fee = $545.00 - 0663 branch
+3. Underwriting fee = $750.00
+
+
+C section:
+
+Survey fee - TX
+
+E section
+
+For TX files you would enter $50.00 Deed recording fee & $150.00 Mortgage 
+
+New CA SB2 recording fee of $225 max per document on top of the regular recording fees starting Jan 1 2018. 	California
+
+
+Lender's title insurance fee should not show $200.
+
+branch codes:
+
+499 - $200 
+490 - LA more than 200K=250 : LA less than 200K=200.
+549 - Lender's Title Insurance = $395 and Closing/Escrow Fee = $200
+873 - $500
+
+E Section:
+
+KS Recording Fee - $125 MAX for loans of $75,000.00 or less (Kansas) ALL OTHER LOAN AMOUNTS ABOVE MUST BE AT LEAST 300.00"
+
+transfer taxes always should show %.
+
+check transfer taxes as per state in checklist.
+
+Perdiem - 12 days
+
+
+Details of Transaction screen:
+
+1. No totals are locked down on DOT except line d. Refi - Box M will be locked down.
+
+Loan Terms screen:
+
+1.Late Charges = 15 days - 5% - wil not and wil not - May not.
